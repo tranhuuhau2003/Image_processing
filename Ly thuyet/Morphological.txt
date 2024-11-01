@@ -4,6 +4,7 @@ thêm viênf, tính tonas xong xóa viền
 Kỹ thuật xử lý ảnh hình thái học:
 
  • Erosion (Xói mòn): Phép toán này làm thu nhỏ các vùng trắng trong ảnh nhị phân và mở rộng các vùng đen. 
-    Erosion thường được sử dụng để loại bỏ nhiễu nhỏ và tách rời các đối tượng gần nhau.
+    Erosion thường được sử dụng để loại bỏ nhiễu nhỏ và tách rời các đối tượng gần nhau. 
+    Cực kì hiệu quả để xóa những vết nhỏ trên ảnh 
  • Dilation (Khuếch đại): Phép toán này mở rộng các vùng trắng trong ảnh nhị phân và thu nhỏ các vùng đen. 
     Dilation thường được sử dụng để lấp đầy các khoảng trống nhỏ, kết nối các vùng bị đứt đoạn và nâng cao chi tiết trong ảnh.
