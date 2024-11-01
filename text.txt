@@ -1,0 +1,1 @@
+viết năm hàm, mỗi hàm một cách, mỗi lần chạy random 3 hàm, mỗi lần nhấn key cái chạy ra một ảnh mới 
